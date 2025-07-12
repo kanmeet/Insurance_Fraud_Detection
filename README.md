@@ -14,7 +14,7 @@ This project is a machine learning-based Streamlit web application that predicts
 
 1. **Clone the repository** or download this folder:
 
-git clone https://github.com/yourusername/insurance-fraud-detection.git
+git clone https://github.com/kanmeet/insurance-fraud-detection.git
 cd insurance-fraud-detection
 
 2. **Install Dependencies**
